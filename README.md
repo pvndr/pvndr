@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student+%40+KSSEM;Full-Stack+%2B+AI%2FApplied+ML;Building+Practical+Software;Open+to+SDE-1+%2F+GET+Roles&center=true&width=500&height=50&color=36BCF7&size=24" alt="Typing SVG" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pvndr/pvndr/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/pvndr/pvndr/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
