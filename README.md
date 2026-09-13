@@ -77,7 +77,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pvndr&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats-mu-lovat-67.vercel.app/api?username=pvndr&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pvndr&theme=radical" />
 </p>
 
