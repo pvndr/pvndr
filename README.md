@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="140">
-<img src="https://raw.githubusercontent.com/pvndr/pvndr/main/avatar.jpg" width="120" style="border-radius:50%;border:3px solid #36BCF7;" />
+<img src="https://raw.githubusercontent.com/pvndr/pvndr/main/avatar.jpeg" width="120" style="border-radius:50%;border:3px solid #36BCF7;" />
 </td>
 <td>
 <h1>Hi 👋, I'm Pavan</h1>
