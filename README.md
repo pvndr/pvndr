@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pavan</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student+%40+KSSEM;Full-Stack+%2B+AI%2FApplied+ML;Building+Practical+Software;Open+to+SDE-1+%2F+GET+Roles&center=true&width=500&height=50&color=36BCF7&size=24" alt="Typing SVG" />
-</p>
+<table>
+<tr>
+<td width="140">
+<img src="https://raw.githubusercontent.com/pvndr/pvndr/main/avatar.jpg" width="120" style="border-radius:50%;border:3px solid #36BCF7;" />
+</td>
+<td>
+<h1>Hi 👋, I'm Pavan</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student+%40+KSSEM;Full-Stack+%2B+AI%2FApplied+ML;Building+Practical+Software;Open+to+SDE-1+%2F+GET+Roles&color=36BCF7&size=20" />
+</td>
+</tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pvndr/pvndr/output/github-contribution-grid-snake-dark.svg" />
