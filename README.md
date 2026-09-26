@@ -39,7 +39,6 @@
 
 | Project               | What it does                                                                                                                                                                                    |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **CSE Lab Simulator** | Full-stack application for simulating and supporting CSE laboratory workflows, with a focus on practical engineering, secure API integration, persistence, testing, and production-ready builds |
 | **RAG Application**   | Retrieval-Augmented Generation application exploring document retrieval, contextual information, and AI-powered responses                                                                       |
 | **CricShift**         | Machine-learning based cricket momentum detection platform, accompanied by a survey paper                                                                                                       |
 | **Valentine App**     | Interactive web application built as a creative, experience-focused project with an emphasis on frontend interaction and presentation                                                           |
